@@ -6,8 +6,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Search"
+    url: /search/
 
 docs:
   - title: "대목차"
