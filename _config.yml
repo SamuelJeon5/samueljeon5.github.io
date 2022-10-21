@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Samuel Jeon's Blog"
+title                    : "Samuel Jeon"
 title_separator          : "|"
-subtitle                 : "Failed? Try, Try again." # site tagline that appears below site title in masthead
-name                     : "Samuel Jeon"
+subtitle                 : "배우고 기록하는 공간" # site tagline that appears below site title in masthead
+name                     : "Sam"
 description              : "The blog run by a thinker who enjoys and learning new things."
 url                      : "https://SamuelJeon5.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
