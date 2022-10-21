@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Sam"
   avatar           : "/assets/images/avatar.jpeg"
-  bio              : "Cyber Security와 Machine Learning에 관심이 있습니다."
-  location         : "A Well-known Peninsula of the Earth"
+  bio              : "-Cyber Security\n-Machine Learning\n-Organizing"
+  location         : "Seoul, KOREA"
   email            :
   links:
     - label: "Email"
