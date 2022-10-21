@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Sam"
   avatar           : "/assets/images/avatar.jpeg"
-  bio              : "-Cyber Security\n-Machine Learning\n-Organizing"
-  location         : "Seoul, KOREA"
-  email            :
+  bio              : "코딩하는 ISFP"
+  location         : "서울, 한국"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
